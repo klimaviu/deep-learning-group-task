@@ -1,5 +1,7 @@
 # Deep Learning Group Task: Using the StandardSim Dataset for Change Detection
 
+Group name: DU. Topic: "Recognition in retails"
+
 This project relies heavily on [an unofficial StandarSim repo](https://github.com/mohashei/Standard-Sim/blob/0fbfc30a0244700230b4eac5708403f34bba28ad/standard-retail-dataset/README.md) by mokashei.
 
 Here, we train a change detection model (DeepLabV3) on a smaller subset of StandardSim (500 scenes). The first model is trained using a ResNet50 backbone - similar to the authors. The second model introduces a novelty by using a ResNet101 backbone.
