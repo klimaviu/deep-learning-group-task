@@ -1,4 +1,4 @@
-# Deep Learning Group Task: Using the StandardSim dataset for change detection
+# Deep Learning Group Task: Using the StandardSim Dataset for Change Detection
 
 This project relies heavily on [an unofficial StandarSim repo](https://github.com/mohashei/Standard-Sim/blob/0fbfc30a0244700230b4eac5708403f34bba28ad/standard-retail-dataset/README.md) by mokashei.
 
